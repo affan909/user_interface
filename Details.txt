@@ -1,0 +1,3 @@
+This is a text file to understand
+1)how the UI is created
+2)using HTML
